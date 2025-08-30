@@ -14,6 +14,8 @@ public class Carro {
         this.motor = motor;
         this.montadora = montadora;
     }
+    public Carro(Motor motor) {
+    }
 
     public String getModelo() {
         return modelo;
@@ -45,5 +47,12 @@ public class Carro {
 
     public void setMontadora(Montadora montadora) {
         this.montadora = montadora;
+    }
+
+    public CarroStatus darIgnicao(Chave chave) {
+        if (chave.getMontadora() != this.montadora){
+            return new CarroStatus("Os carros não batem com o modelo de chave, tem certeza que está usando da mesma marca?");
+        }
+        return new CarroStatus("Carro Ligado! \n Motor:" + motor);
     }
 }

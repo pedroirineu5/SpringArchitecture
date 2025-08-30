@@ -1,5 +1,6 @@
 /home/pedro/Documents/JavaEstudos/SpringArchitecture/src/main/java/com/ArquiteturaSpring/ArquiteturaSpring/ArquiteturaSpringEstudosApplication.java
 /home/pedro/Documents/JavaEstudos/SpringArchitecture/src/main/java/com/ArquiteturaSpring/ArquiteturaSpring/motadora/Carro.java
+/home/pedro/Documents/JavaEstudos/SpringArchitecture/src/main/java/com/ArquiteturaSpring/ArquiteturaSpring/motadora/CarroStatus.java
 /home/pedro/Documents/JavaEstudos/SpringArchitecture/src/main/java/com/ArquiteturaSpring/ArquiteturaSpring/motadora/Chave.java
 /home/pedro/Documents/JavaEstudos/SpringArchitecture/src/main/java/com/ArquiteturaSpring/ArquiteturaSpring/motadora/HondaHRV.java
 /home/pedro/Documents/JavaEstudos/SpringArchitecture/src/main/java/com/ArquiteturaSpring/ArquiteturaSpring/motadora/Montadora.java
