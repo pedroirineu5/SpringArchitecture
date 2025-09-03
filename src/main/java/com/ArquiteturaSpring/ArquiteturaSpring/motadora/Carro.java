@@ -15,6 +15,7 @@ public class Carro {
         this.montadora = montadora;
     }
     public Carro(Motor motor) {
+        this.motor = motor;
     }
 
     public String getModelo() {

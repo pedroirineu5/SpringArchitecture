@@ -2,9 +2,9 @@ com/ArquiteturaSpring/ArquiteturaSpring/motadora/configuration/MontadoraConfigur
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/Montadora.class
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/Carro.class
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/CarroStatus.class
-com/ArquiteturaSpring/ArquiteturaSpring/motadora/HondaHRV.class
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/api/TesteFabricaController.class
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/Motor.class
 com/ArquiteturaSpring/ArquiteturaSpring/ArquiteturaSpringEstudosApplication.class
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/TipoMotor.class
 com/ArquiteturaSpring/ArquiteturaSpring/motadora/Chave.class
+com/ArquiteturaSpring/ArquiteturaSpring/motadora/SubaruWRX.class
